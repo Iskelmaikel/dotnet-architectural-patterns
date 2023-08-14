@@ -1,0 +1,6 @@
+C:\Users\MaikelNiks\source\repos\dotnet-architectural-patterns\dotnet-architectural-patterns\cqrs.db\bin\Debug\cqrs.db.dacpac
+C:\Users\MaikelNiks\source\repos\dotnet-architectural-patterns\dotnet-architectural-patterns\cqrs.db\bin\Debug\cqrs.db.dll
+C:\Users\MaikelNiks\source\repos\dotnet-architectural-patterns\dotnet-architectural-patterns\cqrs.db\bin\Debug\cqrs.db.pdb
+C:\Users\MaikelNiks\source\repos\dotnet-architectural-patterns\dotnet-architectural-patterns\cqrs.db\obj\Debug\cqrs.db.sqlproj.AssemblyReference.cache
+C:\Users\MaikelNiks\source\repos\dotnet-architectural-patterns\dotnet-architectural-patterns\cqrs.db\obj\Debug\cqrs.db.dll
+C:\Users\MaikelNiks\source\repos\dotnet-architectural-patterns\dotnet-architectural-patterns\cqrs.db\obj\Debug\cqrs.db.pdb

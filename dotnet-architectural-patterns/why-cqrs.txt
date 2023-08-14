@@ -1,0 +1,16 @@
+It is common to find in modern and old systems traditional architectural patterns that use the same 
+data model or DTO to query and persist/update data. When the system only uses a simple CRUD, this can 
+be a great approach, but as the system grows and becomes complex it can become a real disaster.
+
+In these scenarios, reading and writing have incompatibilities with each other, such as properties that 
+are needed to update but should not be returned in queries. This difference can lead to data loss and, at 
+best, break the architectural design of the application.
+
+Therefore, the main objective of CQRS is to allow an application to work correctly using different data 
+models, offering flexibility in scenarios that require a complex model. You have the possibility to 
+create multiple DTOs without breaking any architectural pattern or losing any data in the process.
+
+In multiple (N-)layer applications the CQRS can live in the service layer to perform it's commands and queries.
+
+Documentation sources:
+- https://www.telerik.com/blogs/applying-cqrs-pattern-aspnet-core-application

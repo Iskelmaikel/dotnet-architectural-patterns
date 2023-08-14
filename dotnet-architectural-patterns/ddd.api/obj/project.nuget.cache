@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+T3+RkOvLnGVRHTNwtbQDT+G5hZrQ3sakOYhGGm/ohTsWApL/2lbk8CjRSVJBAu+FCQqYlwdGXbzTj21W8OlQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MaikelNiks\\source\\repos\\dotnet-architectural-patterns\\dotnet-architectural-patterns\\ddd.api\\ddd.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MaikelNiks\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\MaikelNiks\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MaikelNiks\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\MaikelNiks\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\MaikelNiks\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\MaikelNiks\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
